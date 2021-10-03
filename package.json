@@ -1,0 +1,31 @@
+{
+  "name": "simple-discord-bot",
+  "version": "1.0.0",
+  "description": "Just a simple bot...",
+  "main": "./src/simplebot.js",
+  "scripts": {
+    "run": "node ./src/simplebot.js",
+    "test": "npm run test ./src/simplebot.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Franklin637/Simple-Discord-Bot.git"
+  },
+  "keywords": [
+    "Simple",
+    "Simple-Bot"
+  ],
+  "author": "Simple Developers",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Franklin637/Simple-Discord-Bot/issues"
+  },
+  "homepage": "https://github.com/Franklin637/Simple-Discord-Bot#readme",
+  "dependencies": {
+    "discord.js": "^13.1.0",
+    "dotenv": "^10.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.32.0"
+  }
+}
