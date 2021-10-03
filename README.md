@@ -5,8 +5,8 @@
 
 # Required systems
 You need to install the required stuff to run or clone the project!
-[Node.js v16](https://nodejs.org/en/download/current/)
-[Git](https://git-scm.com/downloads)
+ [Node.js v16](https://nodejs.org/en/download/current/)
+ [Git](https://git-scm.com/downloads)
 
 # Clone
 Clone this project via github or by going to command prompt and typing `git clone https://github.com/Franklin637/Simple-Discord-Bot`
