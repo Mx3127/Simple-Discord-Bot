@@ -4,7 +4,7 @@
  Very friendly project... Contact: ggohomies@gmail.com for reports or bugs or even updates to the next version!
 
 # Required systems
-You need to install the required stuff to run or clone the project!
+ You need to install the required stuff to run or clone the project!
  [Node.js v16](https://nodejs.org/en/download/current/)
  [Git](https://git-scm.com/downloads)
 
