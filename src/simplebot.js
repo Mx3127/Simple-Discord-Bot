@@ -10,7 +10,6 @@ Please put a star to the repo... ❤️
 // Required packages
 const { Client, Intents } = require('discord.js');
 const client = new Client({ intents: [Intents.FLAGS.GUILDS] });
-const { startup } = require('./src/event/ready.js');
 /*
 Just to let you know in the discord.js v13 or above we don't use discord alone.
 Example:
