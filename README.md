@@ -1,5 +1,5 @@
 # Simple-Discord-Bot
- The only beginner way to learn!
+ The only beginner way to learn! This project is gonna have a dashboard soon!
  As to this project; Provides many sentence in which they do as come.
  Very friendly project... Contact: ggohomies@gmail.com for reports or bugs or even updates to the next version!
 
