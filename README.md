@@ -20,7 +20,7 @@ Clone this project via github or by going to command prompt and typing `git clon
  After opening the project, go to `.env` file then fill it up by going and grabbing your token in [Discord Portal](https://discord.com/developers/applications)
 
 ## Starting the project 🎉
-All done now! You can peacefully run your beatiful node.js bot by typing `code .` or `code ./src/simplebot.js`!
+All done now! You can peacefully run your beautiful node.js bot by typing `code .` or `code ./src/simplebot.js` in the terminal!
 
 # Support Us! 
 Thanks for cloning and using the project please please put a star! ❤️
